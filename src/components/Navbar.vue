@@ -1,4 +1,3 @@
-<!-- Navbar.vue -->
 <template>
     <nav
         class="bg-black/20 rounded-3xl backdrop-blur-md shadow-lg ring-1 ring-black/5"
@@ -7,7 +6,7 @@
             class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
         >
             <div class="search-bar relative">
-                <label for="Search" class="sr-only">Search files...</label>
+                <label for="Search" class="sr-only">Search</label>
                 <input
                     type="text"
                     id="Search"
